@@ -34,12 +34,10 @@ So, Try to know about me :
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg)
-
+</br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tausifaman222.tausifaman222)
-
-<a href="https://linkedin.com/in/syed-tausif-ahmed-b7139b1b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syed-tausif-ahmed-b7139b1b1" height="30" width="40" /></a>
 :mailbox: Reach me out!
-
- [![Linkedin Badge](https://img.shields.io/badge/syed-tausif-ahmed-b7139b1b1?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-tausif-ahmed-b7139b1b1/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/freaking_slayer.aman) [![Mail Badge](https://img.shields.io/badge/instagram--red](mailto:tausifaman222@gmail.com)
+<a href="https://linkedin.com/in/syed-tausif-ahmed-b7139b1b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syed-tausif-ahmed-b7139b1b1" height="30" width="40" /></a>
+##Gaming Channel
 [Youtube - @amangaming222]
 (https://youtube.com/amangaming222)
