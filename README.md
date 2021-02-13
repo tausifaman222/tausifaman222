@@ -31,6 +31,8 @@ So, Try to know about me :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausifaman222&show_icons=true&locale=en" alt="tausifaman222" /></p>
 
+<!--START_SECTION:waka-->
+<!---<!--END_SECTION:waka-->
 ![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tausifaman222.tausifaman222)
