@@ -34,7 +34,7 @@ So, Try to know about me :
 ![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg)
 (http://hits.dwyl.com/tausifaman222/tausifaman222)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tausifaman222.tausifaman222)
 <a href="https://linkedin.com/in/syed-tausif-ahmed-b7139b1b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syed-tausif-ahmed-b7139b1b1" height="30" width="40" /></a>
 
 [Youtube - @amangaming222]
