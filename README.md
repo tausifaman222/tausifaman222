@@ -30,7 +30,8 @@ So, Try to know about me :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tausifaman222&show_icons=true&locale=en&layout=compact" alt="tausifaman222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausifaman222&show_icons=true&locale=en" alt="tausifaman222" /></p>
- #### Coding Stats
+ 
+ ### Coding Stats
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
