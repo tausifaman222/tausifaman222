@@ -1,6 +1,7 @@
 ### Hi there 👋 I' m Syed Tausif Ahmed
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tausifaman222)](https://github.com/anuraghazra/github-readme-stats)
 
+[![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg)](http://hits.dwyl.com/tausifaman222/tausifaman222)
 <!--
 **tausifaman222/tausifaman222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
