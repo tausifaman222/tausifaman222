@@ -1,6 +1,4 @@
 ### Hi there 👋 I' m Syed Tausif Ahmed
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tausifaman222)](https://github.com/anuraghazra/github-readme-stats)
-
 [![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg)](http://hits.dwyl.com/tausifaman222/tausifaman222)
 <!--
 **tausifaman222/tausifaman222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +30,7 @@ So, Try to know about me :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausifaman222&show_icons=true&locale=en" alt="tausifaman222" /></p>
 
-👔 linkedin] : https://linkedin.com/in/syed-tausif-ahmed-b7139b1b1
+<a href="https://linkedin.com/in/syed-tausif-ahmed-b7139b1b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syed-tausif-ahmed-b7139b1b1" height="30" width="40" /></a>
+
 [Youtube - @amangaming222]
 (https://youtube.com/amangaming222)
