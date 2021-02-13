@@ -5,7 +5,7 @@
 **tausifaman222/tausifaman222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ##SKILLS :
-/REACT /CSS /HTML /javaScript /Python /R /Java /C++ /Linux
+* /REACT /CSS /HTML /javaScript /Python /R /Java /C++ /Linux
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gaming ROG Setup
