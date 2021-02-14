@@ -33,7 +33,9 @@ So, Try to know about me :
  
  ### Coding Stats
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg)
