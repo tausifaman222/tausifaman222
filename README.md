@@ -6,7 +6,7 @@
 So, Try to know about me : 
 
 - 🔭 I’m currently working on Gaming ROG Setup 
-- 🌱 I’m currently learning Full-Stack Web Development  @ ## https://www.NEOG.CAMP
+- 🌱 I’m currently learning MERN Full-Stack Web Development  @ ## https://www.NEOG.CAMP
 - 👯 I’m looking to collaborate on Internships & Startup with Friends
 - 💬 Ask me about Gaming, TechReviews and Food
 - 📫 How to reach me: 24*7 All Social Media
