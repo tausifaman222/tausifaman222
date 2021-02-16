@@ -3,7 +3,7 @@
 <!--
 **tausifaman222/tausifaman222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-So, Try to know about me : 
+So, Be Familiar with Me : 
 
 - 🔭 I’m currently working on Gaming ROG Setup 
 - 🌱 I’m currently learning MERN Full-Stack Web Development  @ ## https://www.NEOG.CAMP
@@ -38,7 +38,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg)
+<!-- ![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tausifaman222.tausifaman222)
 
 :mailbox: Reach me out!
