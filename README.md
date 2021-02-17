@@ -40,6 +40,12 @@ No Activity tracked this Week
 
 <!-- ![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tausifaman222.tausifaman222)
+ <table>
+   <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/tausifaman222/count.svg" alt="vistor count" height="50" /></td>
+   </tr>
+  </table>
 
 :mailbox: Reach me out!
 <a href="https://linkedin.com/in/syed-tausif-ahmed-b7139b1b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syed-tausif-ahmed-b7139b1b1" height="30" width="40" /></a>
