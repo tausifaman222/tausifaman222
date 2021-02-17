@@ -37,7 +37,7 @@ So, Be Familiar with Me :
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tausifaman222" alt="tausifaman222" /></p>
 <!-- ![HitCount](http://hits.dwyl.com/tausifaman222/tausifaman222.svg) -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tausifaman222.tausifaman222)
 ![Visitor Count](https://profile-counter.glitch.me/tausifaman222/count.svg)
