@@ -1,5 +1,5 @@
 ### Hi there 👋 I' m Syed Tausif Ahmed
-
+![header-image](.//header_white_.png)
 <!--
 **tausifaman222/tausifaman222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
