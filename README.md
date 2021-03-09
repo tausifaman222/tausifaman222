@@ -31,6 +31,8 @@ So, Be Familiar with Me :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausifaman222&show_icons=true&locale=en" alt="tausifaman222" /></p>
  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tausifaman222&theme=onedark)]
  ### Coding Stats 
 <!--START_SECTION:waka-->
 ```text
