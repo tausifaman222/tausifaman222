@@ -36,8 +36,8 @@ So, Be Familiar with Me :
  ### Coding Stats 
 <!--START_SECTION:waka-->
 ```text
-Other        66 hrs 15 mins  ████████████████████████▒   97.30 % 
-HTML         1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Other        69 hrs 45 mins  ████████████████████████▒   97.43 % 
+HTML         1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 <!--END_SECTION:waka-->
