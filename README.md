@@ -36,7 +36,10 @@ So, Be Familiar with Me :
  ### Coding Stats 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 20 mins    ██████████████████░░░░░░░   72.07 % 
+Other        13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Git Config   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 ```
 <!--END_SECTION:waka-->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tausifaman222" alt="tausifaman222" />
