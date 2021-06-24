@@ -53,6 +53,7 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 
 :mailbox: Reach me out!
 <a href="https://linkedin.com/in/syed-tausif-ahmed-b7139b1b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syed-tausif-ahmed-b7139b1b1" height="30" width="40" /></a>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tausifaman){:target="_blank"}
 ### Gaming Channel for Fun
 [Youtube - @amangaming222]
 (https://youtube.com/amangaming222)
