@@ -36,11 +36,11 @@ So, Be Familiar with Me :
  ### Coding Stats 
 <!--START_SECTION:waka-->
 ```text
-Other        9 hrs 42 mins   ██████████████▓░░░░░░░░░░   58.47 % 
-HTML         3 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-CSS          3 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 % 
-C++          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Other        6 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.78 % 
+HTML         3 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+CSS          3 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 % 
+C++          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tausifaman222" alt="tausifaman222" />
