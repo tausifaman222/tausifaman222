@@ -57,4 +57,4 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 [!["Buy Me A Plate of Biryani"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swiggy.com%2Frestaurants%2Fbiryani-blues-scindia-house-connaught-place-delhi-8620&psig=AOvVaw3sIQy6NxwguGFz9mXqnLT2&ust=1624651713890000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLib9rmJsfECFQAAAAAdAAAAABAD)](https://www.buymeacoffee.com/tausifaman)
 ### Gaming Channel for Fun
 [Youtube - @DTronGaming]
-(https://youtube.com/DTronGaming)
+(https://www.youtube.com/channel/UCTlF3GsmAHDLTr7LIeKATNg)
