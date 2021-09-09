@@ -30,7 +30,8 @@ So, Be Familiar with Me :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tausifaman222&show_icons=true&locale=en&layout=compact" alt="tausifaman222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausifaman222&show_icons=true&locale=en" alt="tausifaman222" /></p>
- 
+![](https://github.com/tausifaman222/github-stats/blob/master/generated/languages.svg)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tausifaman222&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tausifaman222&theme=onedark)]
