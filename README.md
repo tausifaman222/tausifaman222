@@ -5,8 +5,7 @@
 -->
 So, Be Familiar with Me : 
 
-- 🔭 I’m currently working on Gaming ROG Setup 
-- 🌱 I’m currently learning MERN Full-Stack Web Development  @ ## https://www.NEOG.CAMP
+- 🔭 I’m currently working on Digital Onboarding Platforms for NBFCs and Banks 
 - 👯 I’m looking to collaborate on Internships & Startup with Friends
 - 💬 Ask me about Gaming, TechReviews and Food
 - 📫 How to reach me: 24*7 All Social Media
